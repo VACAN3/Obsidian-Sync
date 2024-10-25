@@ -11,10 +11,15 @@
             "id": "270d882114515b65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-25.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024-10-25"
             }
           }
         ]
@@ -154,6 +159,8 @@
   },
   "active": "270d882114515b65",
   "lastOpenFiles": [
+    "2024-10-25.md",
+    "未命名.md",
     "You Need Thinking.md",
     "多集群、微服务架构、Docker.canvas",
     "手机端改动！！！！！！.md"
