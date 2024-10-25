@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a411c1b993011a",
+        "id": "303b998ed0bc65cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e589b4239d0cd089",
+            "id": "f8e5236aaa155ba5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -150,10 +150,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e589b4239d0cd089",
+  "active": "f8e5236aaa155ba5",
   "lastOpenFiles": [
+    "？。？。？。？。？.md",
     "iPad 的修改！ ！！.md",
-    "2024-10-25.md",
     "/2024-10-25.md",
     "未命名.md",
     "You Need Thinking.md",
