@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2cd4bf4fc62cc6",
+        "id": "e521e105ebdcf7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "270d882114515b65",
+            "id": "37939914a657c111",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-25.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "新标签页"
             }
           }
         ]
@@ -157,7 +152,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "270d882114515b65",
+  "active": "37939914a657c111",
   "lastOpenFiles": [
     "2024-10-25.md",
     "未命名.md",
