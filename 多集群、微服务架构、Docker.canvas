@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"b72115df12c61316","type":"group","x":280,"y":-180,"width":161,"height":420,"label":"多个容器镜像"},
+		{"id":"91ca52dd2f168b74","type":"text","text":"microservices\n微服务架构\n( 每个Docker容器对应一个微服务 )","x":-140,"y":-25,"width":309,"height":110},
+		{"id":"ffa13790cb33c2c5","type":"text","text":"多集群","x":-720,"y":57,"width":112,"height":50},
+		{"id":"b1bf8ed7c846a088","type":"text","text":"app 源码","x":580,"y":-185,"width":128,"height":50},
+		{"id":"f1aeb74fba7d0711","type":"text","text":"Docker","x":300,"y":-160,"width":114,"height":60},
+		{"id":"29e557e5b0771a60","type":"text","text":"Docker","x":300,"y":-55,"width":114,"height":60},
+		{"id":"8ae7ab64431eb558","type":"text","text":"......","x":300,"y":160,"width":84,"height":28},
+		{"id":"b6a49e1c3fdd87c9","type":"text","text":"Docker","x":300,"y":60,"width":114,"height":60},
+		{"id":"a3024a3bee05db72","type":"text","text":"app 运行环境","x":580,"y":-125,"width":160,"height":50},
+		{"id":"03bc11809b573af4","type":"text","text":"K8S ( Kubernetes )\n容器管理工具","x":-460,"y":3,"width":193,"height":57},
+		{"id":"ddaf19a80cb67920","type":"text","text":"......","x":-440,"y":117,"width":84,"height":28},
+		{"id":"a28cdcc0f26a0c31","type":"text","text":"TKE AppFabric\n腾讯多集群管理工具","x":-1040,"y":91,"width":208,"height":58},
+		{"id":"3a4b84a5869a17c0","type":"text","text":"多集群","x":-720,"y":145,"width":112,"height":50}
+	],
+	"edges":[
+		{"id":"4937765aa35400ef","fromNode":"03bc11809b573af4","fromSide":"right","toNode":"91ca52dd2f168b74","toSide":"left","label":"管理"},
+		{"id":"19a8688a2c200f23","fromNode":"91ca52dd2f168b74","fromSide":"right","toNode":"f1aeb74fba7d0711","toSide":"left"},
+		{"id":"530449a8972e5828","fromNode":"91ca52dd2f168b74","fromSide":"right","toNode":"29e557e5b0771a60","toSide":"left"},
+		{"id":"5fad326a0f66eed6","fromNode":"91ca52dd2f168b74","fromSide":"right","toNode":"b6a49e1c3fdd87c9","toSide":"left"},
+		{"id":"f5e2eb6df1d9a2f5","fromNode":"91ca52dd2f168b74","fromSide":"right","toNode":"8ae7ab64431eb558","toSide":"left"},
+		{"id":"7d75fd6e9f71e6b9","fromNode":"f1aeb74fba7d0711","fromSide":"right","toNode":"b1bf8ed7c846a088","toSide":"left"},
+		{"id":"1396d0a479d9f957","fromNode":"f1aeb74fba7d0711","fromSide":"right","toNode":"a3024a3bee05db72","toSide":"left"},
+		{"id":"739b0de3114e89d0","fromNode":"ffa13790cb33c2c5","fromSide":"right","toNode":"03bc11809b573af4","toSide":"left","label":"集群"},
+		{"id":"063e3ae00079eb62","fromNode":"ffa13790cb33c2c5","fromSide":"right","toNode":"ddaf19a80cb67920","toSide":"left","label":"集群"},
+		{"id":"6044036ab0135d5a","fromNode":"a28cdcc0f26a0c31","fromSide":"right","toNode":"ffa13790cb33c2c5","toSide":"left"},
+		{"id":"97a7cc22566d07b5","fromNode":"a28cdcc0f26a0c31","fromSide":"right","toNode":"3a4b84a5869a17c0","toSide":"left"}
+	]
+}
