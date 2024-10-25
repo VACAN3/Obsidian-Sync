@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "6ad6dbeec0646d59",
+    "id": "4ce907b9f42afdea",
     "type": "split",
     "children": [
       {
-        "id": "d57933186add3600",
+        "id": "078b260b07af7e20",
         "type": "tabs",
         "children": [
           {
-            "id": "32dcdb8a67318eb2",
+            "id": "9822b83d4c02b9f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024-10-25"
             }
           }
         ]
@@ -23,27 +28,37 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "244f15217ad15853",
+    "id": "9b70b0be135ac0d0",
     "type": "split",
     "children": [
       {
-        "id": "5a498ac2de891d0b",
+        "id": "5d983a2ce338c213",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0e9ae66ff66ccd",
+            "id": "33e13e7c50ac79c7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "7c3631fea85fdf05",
+            "id": "34a6a9b3bff010c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "5878ba775f4650fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,64 +73,23 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
-          {
-            "id": "c3af28304634db47",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
-    "id": "8367625c643efd6d",
+    "id": "2ca7ac3b409b6660",
     "type": "split",
     "children": [
       {
-        "id": "9c63bc844a9d4495",
+        "id": "ef5d3b480250efcd",
         "type": "tabs",
         "children": [
           {
-            "id": "36a6645e47cf8ab0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "0751a319c0945b27",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
-            "id": "0b61b71521d53586",
+            "id": "f7fad90b26eb5bce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,17 +102,66 @@
             }
           },
           {
-            "id": "22bb559341e1d654",
+            "id": "75255f1d6c0d4209",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "大纲"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
-            "id": "f05450417e724171",
+            "id": "d745a71cf8f85103",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chrome Extension Sample/Knowledge Record.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Knowledge Record 的出链列表"
+            }
+          },
+          {
+            "id": "66e34e2248a7a965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chrome Extension Sample/Knowledge Record.md"
+              },
+              "icon": "lucide-list",
+              "title": "Knowledge Record 的大纲"
+            }
+          },
+          {
+            "id": "de897e2727c91760",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chrome Extension Sample/Knowledge Record.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Knowledge Record 的反向链接列表"
+            }
+          },
+          {
+            "id": "db3df28268ccbe67",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -148,29 +171,55 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 563.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "obsidian-git:Open Git source control": false,
-      "workspaces:管理工作区布局": false
+      "publish:发布更改": false
     }
   },
-  "active": "f05450417e724171",
+  "active": "9822b83d4c02b9f0",
   "lastOpenFiles": [
-    "欢迎.md",
-    "创建链接.md",
-    "未命名.md"
+    "2024-10-25.md",
+    "未命名.md",
+    "多集群、微服务架构、Docker.canvas",
+    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
+    "Obsidian Sync/未命名.md",
+    "Obsidian Sync/创建链接.md",
+    "Obsidian Sync/欢迎.md",
+    "Obsidian Sync",
+    "未命名.canvas",
+    "You Need Thinking.md",
+    "Knowledge  ▏Skill/Fetch 流式传输.md",
+    "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
+    "Chrome Extension Sample/Knowledge Record.md",
+    "Chrome Extension Sample/Pasted image 20241021183639.png",
+    "Knowledge  ▏Skill/image",
+    "未命名",
+    "().md",
+    "202410221549.md",
+    "Knowledge  ▏Skill",
+    "Chrome Extension Sample",
+    "Pasted image 20241021143059.png",
+    "2024-10-18.md",
+    "face.jpeg.md",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.md",
+    "2024-09-03.md",
+    "2024-08-22.md"
   ]
 }
