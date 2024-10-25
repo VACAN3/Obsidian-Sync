@@ -11,10 +11,15 @@
             "id": "37939914a657c111",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Server-Sent Events 流式传输"
             }
           }
         ]
