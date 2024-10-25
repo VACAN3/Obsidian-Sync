@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "100a6bc8635f7bfd",
+        "id": "d57933186add3600",
         "type": "tabs",
         "children": [
           {
-            "id": "a4862ac921aa140c",
+            "id": "32dcdb8a67318eb2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5,
-    "collapsed": true
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +167,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a4862ac921aa140c",
+  "active": "f05450417e724171",
   "lastOpenFiles": [
     "欢迎.md",
     "创建链接.md",
