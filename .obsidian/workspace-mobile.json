@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1db59cfbe955b777",
+    "id": "a349621ddf382ba1",
     "type": "split",
     "children": [
       {
-        "id": "303b998ed0bc65cb",
+        "id": "baf2c0ed1f1a6e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e5236aaa155ba5",
+            "id": "3db717086490bcc9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1a340c021e72a13",
+    "id": "75a002e88e50b0f9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9d6cc7151d3eec93",
+        "id": "c211d2aa003adf0f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "6194c2aa4cbc6cda",
+        "id": "2f108e13c1d343bb",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -56,7 +56,7 @@
         }
       },
       {
-        "id": "beaa8703f3cffbf4",
+        "id": "0861b22192602380",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -69,7 +69,7 @@
         }
       },
       {
-        "id": "6c1551f3491691ce",
+        "id": "298fa955ea29b170",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,11 +82,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "90047a58667a6364",
+    "id": "8891365fed1d9ea8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8fc2ce6e56293802",
+        "id": "afdc0c869c62dabb",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -104,7 +104,7 @@
         }
       },
       {
-        "id": "deda6e80a3cb7bb0",
+        "id": "392ce8631a9574df",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -117,7 +117,7 @@
         }
       },
       {
-        "id": "d97d993b7dd4a86c",
+        "id": "f6cb6b4b76786b2d",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -127,7 +127,7 @@
         }
       },
       {
-        "id": "be3377024a211793",
+        "id": "87de91121eef7b20",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -147,24 +147,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8e5236aaa155ba5",
+  "active": "3db717086490bcc9",
   "lastOpenFiles": [
-    "？。？。？。？。？.md",
-    "iPad 的修改！ ！！.md",
-    "/2024-10-25.md",
+    "2024-10-25.md",
+    "多集群、微服务架构、Docker.canvas",
+    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "未命名.md",
     "You Need Thinking.md",
-    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
-    "Knowledge  ▏Skill/Fetch 流式传输.md",
-    "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
-    "多集群、微服务架构、Docker.canvas",
-    "Chrome Extension Sample/Pasted image 20241021183639.png",
-    "Chrome Extension Sample/Knowledge Record.md",
-    "Chrome Extension Sample",
-    "Knowledge  ▏Skill/image",
-    "Knowledge  ▏Skill"
+    "手机端改动！！！！！！.md"
   ]
 }
