@@ -1,11 +1,6 @@
 {
-  "showRibbon": true,
-  "promptDelete": false,
-  "readableLineLength": false,
-  "strictLineBreaks": false,
-  "foldHeading": true,
-  "showLineNumber": false,
-  "showIndentGuide": true,
-  "rightToLeft": false,
-  "showInlineTitle": false
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "resource",
+  "useMarkdownLinks": true
 }
