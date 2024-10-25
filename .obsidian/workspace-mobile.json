@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "a349621ddf382ba1",
+    "id": "1db59cfbe955b777",
     "type": "split",
     "children": [
       {
-        "id": "e521e105ebdcf7c0",
+        "id": "303b998ed0bc65cb",
         "type": "tabs",
         "children": [
           {
-            "id": "37939914a657c111",
+            "id": "f8e5236aaa155ba5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "新标签页"
             }
           }
         ]
@@ -28,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75a002e88e50b0f9",
+    "id": "c1a340c021e72a13",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c211d2aa003adf0f",
+        "id": "9d6cc7151d3eec93",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +39,7 @@
         }
       },
       {
-        "id": "2f108e13c1d343bb",
+        "id": "6194c2aa4cbc6cda",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +56,7 @@
         }
       },
       {
-        "id": "0861b22192602380",
+        "id": "beaa8703f3cffbf4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +69,7 @@
         }
       },
       {
-        "id": "298fa955ea29b170",
+        "id": "6c1551f3491691ce",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,11 +82,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "8891365fed1d9ea8",
+    "id": "90047a58667a6364",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "afdc0c869c62dabb",
+        "id": "8fc2ce6e56293802",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -109,7 +104,7 @@
         }
       },
       {
-        "id": "392ce8631a9574df",
+        "id": "deda6e80a3cb7bb0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -122,7 +117,7 @@
         }
       },
       {
-        "id": "f6cb6b4b76786b2d",
+        "id": "d97d993b7dd4a86c",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -132,7 +127,7 @@
         }
       },
       {
-        "id": "87de91121eef7b20",
+        "id": "be3377024a211793",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -152,18 +147,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37939914a657c111",
+  "active": "f8e5236aaa155ba5",
   "lastOpenFiles": [
-    "多集群、微服务架构、Docker.canvas",
-    "2024-10-25.md",
-    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
+    "？。？。？。？。？.md",
+    "iPad 的修改！ ！！.md",
+    "/2024-10-25.md",
     "未命名.md",
     "You Need Thinking.md",
-    "手机端改动！！！！！！.md"
+    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
+    "Knowledge  ▏Skill/Fetch 流式传输.md",
+    "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
+    "多集群、微服务架构、Docker.canvas",
+    "Chrome Extension Sample/Pasted image 20241021183639.png",
+    "Chrome Extension Sample/Knowledge Record.md",
+    "Chrome Extension Sample",
+    "Knowledge  ▏Skill/image",
+    "Knowledge  ▏Skill"
   ]
 }
