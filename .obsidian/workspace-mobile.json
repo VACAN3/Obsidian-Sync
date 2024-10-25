@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "303b998ed0bc65cb",
+        "id": "64c63f5cb314e67e",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e5236aaa155ba5",
+            "id": "3dd600fa2884f4dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024-10-25"
             }
           }
         ]
@@ -91,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2024-10-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2024-10-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +128,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "2024-10-25.md"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }
@@ -141,6 +150,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -150,18 +161,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8e5236aaa155ba5",
+  "active": "3dd600fa2884f4dd",
   "lastOpenFiles": [
     "2024-10-25.md",
+    "You Need Thinking.md",
+    "多集群、微服务架构、Docker.canvas",
     "？。？。？。？。？.md",
     "iPad 的修改！ ！！.md",
     "/2024-10-25.md",
     "未命名.md",
-    "You Need Thinking.md",
     "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "Knowledge  ▏Skill/Fetch 流式传输.md",
     "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
-    "多集群、微服务架构、Docker.canvas",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
     "Chrome Extension Sample/Knowledge Record.md",
     "Chrome Extension Sample",
