@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dbbde2e26ea430f4",
+        "id": "078b260b07af7e20",
         "type": "tabs",
         "children": [
           {
-            "id": "1a48642a5ab51e86",
+            "id": "9822b83d4c02b9f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Server-Sent Events 流式传输"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,16 +185,18 @@
       "publish:发布更改": false
     }
   },
-  "active": "db3df28268ccbe67",
+  "active": "9822b83d4c02b9f0",
   "lastOpenFiles": [
+    "2024-10-25.md",
+    "未命名.md",
+    "多集群、微服务架构、Docker.canvas",
+    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "Obsidian Sync/未命名.md",
     "Obsidian Sync/创建链接.md",
     "Obsidian Sync/欢迎.md",
     "Obsidian Sync",
     "未命名.canvas",
-    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "You Need Thinking.md",
-    "多集群、微服务架构、Docker.canvas",
     "Knowledge  ▏Skill/Fetch 流式传输.md",
     "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
     "Chrome Extension Sample/Knowledge Record.md",
