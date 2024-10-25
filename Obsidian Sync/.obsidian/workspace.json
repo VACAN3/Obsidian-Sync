@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9aa609b121d94a",
+        "id": "100a6bc8635f7bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "645baf2dffb36fd5",
+            "id": "a4862ac921aa140c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5
+    "width": 563.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +164,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "645baf2dffb36fd5",
+  "active": "a4862ac921aa140c",
   "lastOpenFiles": [
     "欢迎.md",
     "创建链接.md",
