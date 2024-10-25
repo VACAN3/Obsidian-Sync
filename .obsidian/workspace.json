@@ -186,11 +186,15 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:发布更改": false
     }
   },
-  "active": "1a48642a5ab51e86",
+  "active": "db3df28268ccbe67",
   "lastOpenFiles": [
+    "Obsidian Sync/创建链接.md",
+    "Obsidian Sync/欢迎.md",
+    "Obsidian Sync",
     "未命名.canvas",
     "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "You Need Thinking.md",
