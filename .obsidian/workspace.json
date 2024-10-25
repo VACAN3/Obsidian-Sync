@@ -111,8 +111,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:插入模板": false,
       "daily-notes:打开/创建今天的日记": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
@@ -186,8 +187,7 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false,
-      "publish:发布更改": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "43c1d89beafd7d80",
