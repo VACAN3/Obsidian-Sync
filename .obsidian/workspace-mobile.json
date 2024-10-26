@@ -11,15 +11,17 @@
             "id": "3db717086490bcc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-10-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "多集群、微服务架构、Docker.canvas",
+                "viewState": {
+                  "x": -474.0718325345851,
+                  "y": 185.38720828225033,
+                  "zoom": -0.802865518445176
+                }
               },
-              "icon": "lucide-file",
-              "title": "2024-10-25"
+              "icon": "lucide-layout-dashboard",
+              "title": "多集群、微服务架构、Docker"
             }
           }
         ]
@@ -159,8 +161,8 @@
   },
   "active": "3db717086490bcc9",
   "lastOpenFiles": [
-    "多集群、微服务架构、Docker.canvas",
     "2024-10-25.md",
+    "多集群、微服务架构、Docker.canvas",
     "2024-10-26.md",
     "/2024-10-25.md",
     "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
