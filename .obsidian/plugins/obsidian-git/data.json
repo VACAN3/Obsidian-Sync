@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{date}}:  Backup from Company PC",
+  "commitMessage": "Backup from Company PC: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 2,
   "autoPushInterval": 5,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{date}}:  Backup from Company PC"
+  "autoCommitMessage": "Backup from Company PC: {{date}}"
 }
