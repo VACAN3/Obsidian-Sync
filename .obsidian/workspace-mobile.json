@@ -11,15 +11,10 @@
             "id": "3db717086490bcc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "新标签页"
             }
           }
         ]
@@ -159,8 +154,10 @@
   },
   "active": "3db717086490bcc9",
   "lastOpenFiles": [
-    "多集群、微服务架构、Docker.canvas",
     "2024-10-25.md",
+    "screen 推荐.md",
+    "/screen 推荐.md",
+    "多集群、微服务架构、Docker.canvas",
     "2024-10-26.md",
     "/2024-10-25.md",
     "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
