@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33e13e7c50ac79c7",
+  "active": "43c1d89beafd7d80",
   "lastOpenFiles": [
     "Knowledge/Nest JS",
     "Knowledge/Fetch 流式传输.md",
