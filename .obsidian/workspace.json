@@ -11,10 +11,15 @@
             "id": "43c1d89beafd7d80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge ▏ Skill/Nest JS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Nest JS"
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 233.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -187,11 +192,12 @@
   },
   "active": "33e13e7c50ac79c7",
   "lastOpenFiles": [
+    "Knowledge ▏ Skill/Nest JS.md",
     "新建 文本文档.txt",
     "screen 推荐.md",
     "Knowledge ▏ Skill/Fetch 流式传输.md",
     "You Need Thinking.md",
-    "多集群、微服务架构、Docker.canvas",
+    "Knowledge ▏ Skill/多集群、微服务架构、Docker.canvas",
     "手机端改动！！！！！！.md",
     "手机端能不能看得到！！！.md",
     "Knowledge ▏ Skill/Server-Sent Events 流式传输.md",
