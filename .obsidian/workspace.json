@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge ▏ Skill/Nest JS.md",
+                "file": "Knowledge/Nest JS/Nest JS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 322.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -190,12 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c1d89beafd7d80",
+  "active": "33e13e7c50ac79c7",
   "lastOpenFiles": [
-    "Knowledge ▏ Skill/Fetch 流式传输.md",
-    "Knowledge ▏ Skill/多集群、微服务架构、Docker.canvas",
-    "Knowledge ▏ Skill/Server-Sent Events 流式传输.md",
-    "Knowledge ▏ Skill/Nest JS.md",
+    "Knowledge/Nest JS",
+    "Knowledge/Fetch 流式传输.md",
+    "Knowledge/多集群、微服务架构、Docker.canvas",
+    "Knowledge/Server-Sent Events 流式传输.md",
+    "Knowledge/Nest JS/Nest JS.md",
     "You Need Thinking.md",
     "新建 文本文档.txt",
     "screen 推荐.md",
@@ -206,14 +207,14 @@
     "Obsidian Sync/欢迎.md",
     "Obsidian Sync",
     "未命名.canvas",
-    "Knowledge ▏ Skill/image/Pasted image 20241023143318.png",
+    "Knowledge/image/Pasted image 20241023143318.png",
     "Chrome Extension Sample/Knowledge Record.md",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
-    "Knowledge ▏ Skill/image",
+    "Knowledge/image",
     "未命名",
     "().md",
     "202410221549.md",
-    "Knowledge ▏ Skill",
+    "Knowledge",
     "Chrome Extension Sample",
     "Pasted image 20241021143059.png",
     "2024-10-18.md",
