@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -194,11 +193,11 @@
   },
   "active": "43c1d89beafd7d80",
   "lastOpenFiles": [
-    "Knowledge/Nest JS",
     "Knowledge/Fetch 流式传输.md",
+    "Knowledge/Nest JS/Nest JS.md",
+    "Knowledge/Nest JS",
     "Knowledge/多集群、微服务架构、Docker.canvas",
     "Knowledge/Server-Sent Events 流式传输.md",
-    "Knowledge/Nest JS/Nest JS.md",
     "You Need Thinking.md",
     "新建 文本文档.txt",
     "screen 推荐.md",
