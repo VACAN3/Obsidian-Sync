@@ -11,15 +11,10 @@
             "id": "43c1d89beafd7d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "screen 推荐.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "screen 推荐"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c1d89beafd7d80",
+  "active": "33e13e7c50ac79c7",
   "lastOpenFiles": [
     "Knowledge  ▏Skill/Fetch 流式传输.md",
     "You Need Thinking.md",
