@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Nest JS/Nest JS.md",
+                "file": "202411051713.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nest JS"
+              "title": "202411051713"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -193,8 +194,9 @@
   },
   "active": "43c1d89beafd7d80",
   "lastOpenFiles": [
-    "Knowledge/Fetch 流式传输.md",
     "Knowledge/Nest JS/Nest JS.md",
+    "202411051713.md",
+    "Knowledge/Fetch 流式传输.md",
     "Knowledge/Nest JS",
     "Knowledge/多集群、微服务架构、Docker.canvas",
     "Knowledge/Server-Sent Events 流式传输.md",
