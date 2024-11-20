@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge  ▏Skill/Gitlab CI CD.md",
+                "file": "Knowledge  ▏ Skill/Gitlab CI CD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -194,16 +195,20 @@
   "active": "3fedfef1571a1694",
   "lastOpenFiles": [
     "Today mission.md",
-    "Knowledge  ▏Skill/Gitlab CI CD.md",
-    "screen 推荐.md",
+    "海麦自研系统亮点.md",
     "You Need Thinking.md",
+    "Knowledge  ▏ Skill/Fetch 流式传输.md",
+    "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
+    "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
+    "Knowledge  ▏ Skill/Gitlab CI CD.md",
+    "Knowledge  ▏ Skill/image/49f41ee64911c45b83baf0dd1ef79ff 1.png",
+    "resource/49f41ee64911c45b83baf0dd1ef79ff.png",
+    "Knowledge  ▏ Skill/image/Pasted image 20241023143318.png",
+    "resource",
+    "screen 推荐.md",
     "Knowledge/Nest JS/Nest JS.md",
-    "多集群、微服务架构、Docker.canvas",
-    "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
-    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
-    "Knowledge  ▏Skill/image",
-    "Knowledge  ▏Skill/Fetch 流式传输.md",
-    "Knowledge  ▏Skill",
+    "Knowledge  ▏ Skill/image",
+    "Knowledge  ▏ Skill",
     "202411051713.md",
     "Knowledge/Fetch 流式传输.md",
     "Knowledge/Nest JS",
