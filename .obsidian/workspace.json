@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today mission.md",
+                "file": "Knowledge  ▏Skill/Gitlab CI CD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Today mission"
+              "title": "Gitlab CI CD"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "3fedfef1571a1694",
   "lastOpenFiles": [
     "Today mission.md",
+    "Knowledge  ▏Skill/Gitlab CI CD.md",
     "screen 推荐.md",
     "You Need Thinking.md",
     "Knowledge/Nest JS/Nest JS.md",
