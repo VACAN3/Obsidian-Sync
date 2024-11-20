@@ -4,5 +4,7 @@
   "attachmentFolderPath": "resource",
   "useMarkdownLinks": true,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": false
 }
