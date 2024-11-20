@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Nest JS/Nest JS.md",
+                "file": "screen 推荐.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nest JS"
+              "title": "screen 推荐"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,30 +192,26 @@
   },
   "active": "43c1d89beafd7d80",
   "lastOpenFiles": [
-    "202411051713.md",
-    "Knowledge/Nest JS/Nest JS.md",
-    "Knowledge/Fetch 流式传输.md",
-    "Knowledge/Nest JS",
-    "Knowledge/多集群、微服务架构、Docker.canvas",
-    "Knowledge/Server-Sent Events 流式传输.md",
+    "Knowledge  ▏Skill/Fetch 流式传输.md",
     "You Need Thinking.md",
-    "新建 文本文档.txt",
+    "多集群、微服务架构、Docker.canvas",
     "screen 推荐.md",
     "手机端改动！！！！！！.md",
     "手机端能不能看得到！！！.md",
+    "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
     "Obsidian Sync/未命名.md",
     "Obsidian Sync/创建链接.md",
     "Obsidian Sync/欢迎.md",
     "Obsidian Sync",
     "未命名.canvas",
-    "Knowledge/image/Pasted image 20241023143318.png",
+    "Knowledge  ▏Skill/image/Pasted image 20241023143318.png",
     "Chrome Extension Sample/Knowledge Record.md",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
-    "Knowledge/image",
+    "Knowledge  ▏Skill/image",
     "未命名",
     "().md",
     "202410221549.md",
-    "Knowledge",
+    "Knowledge  ▏Skill",
     "Chrome Extension Sample",
     "Pasted image 20241021143059.png",
     "2024-10-18.md",
