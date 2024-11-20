@@ -1,7 +1,7 @@
 ## .gitlab-ci.yml 文件
 
 #### Runner
-
+流水线的工作执行者，负责按照 `.gitlab-ci.yml` 文件中的配置，运行相应的构建、测试或部署脚本。当流水线触发时，GitLab 会将符合 Runner **tag** 的任务分配给匹配的 Runner。
 
 #### PipeLine 流水线
 1. 表示一次完成的 CI/CD 流程。
