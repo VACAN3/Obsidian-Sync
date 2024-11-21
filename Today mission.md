@@ -2,4 +2,4 @@
 2. 表格子表数量太多优化
 3. 用好pinia管理组件状态
 4. nextjs（若依/开源项目）
-5. gitlab cicd pipeline
+5. gitlab cicd pipeline ✅
