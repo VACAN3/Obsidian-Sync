@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fedfef1571a1694",
+  "active": "db3df28268ccbe67",
   "lastOpenFiles": [
     "Today mission.md",
     "Knowledge  ▏ Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
