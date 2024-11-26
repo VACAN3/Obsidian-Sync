@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -193,6 +194,7 @@
   },
   "active": "3fedfef1571a1694",
   "lastOpenFiles": [
+    "resource/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
     "海麦自研系统亮点.md",
     "You Need Thinking.md",
     "Mission.md",
@@ -241,7 +243,6 @@
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.md",
-    "2024-09-03.md",
-    "2024-08-22.md"
+    "2024-09-03.md"
   ]
 }
