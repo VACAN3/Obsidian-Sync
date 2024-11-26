@@ -7,4 +7,4 @@ Rspack 是用 Rust 语言开发的应用，用来取代老牌的 JS 构建打包
 - [Rspress](https://rspress.dev/zh/)：专注于生成静态站点，比如文档和博客。
 - [Rsdoctor](https://rsdoctor.dev/zh/)：专注于构建分析。
 
-以上这些工具，底层都是 Rspack，分别用于不同的用途，统称为 **Rspack 工具栈**。
+▲ 以上这些工具，底层都是 Rspack，分别用于不同的用途，统称为 **Rspack 工具栈**。
