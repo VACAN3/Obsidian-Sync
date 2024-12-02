@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-02.md",
+                "file": "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-02"
+              "title": "Axios 封装（重复请求最优解）"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 415.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4406823a284c3cfc",
+  "active": "33e13e7c50ac79c7",
   "lastOpenFiles": [
     "2024-11-30.md",
-    "2024-12-02.md",
+    "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
     "海麦自研系统亮点.md",
     "Mission.md",
     "Knowledge  ▏ Skill/image/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
