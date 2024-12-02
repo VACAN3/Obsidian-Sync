@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-30.md",
+                "file": "Knowledge  ▏ Skill/Fetch 流式传输.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-30"
+              "title": "Fetch 流式传输"
             }
           }
         ]
@@ -157,8 +157,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3db717086490bcc9",
+  "active": "87de91121eef7b20",
   "lastOpenFiles": [
+    "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
+    "/Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
+    "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
     "2024-11-30.md",
     "海麦自研系统亮点.md",
     "衡阳攻略.md",
@@ -176,7 +179,6 @@
     "Knowledge  ▏ Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
     "Knowledge  ▏ Skill/image/6c332c271da06d9dce9d324d46fe08b1.png",
     "Knowledge  ▏ Skill/image/49f41ee64911c45b83baf0dd1ef79ff 1.png",
-    "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
     "Knowledge  ▏ Skill/Gitlab CI CD.md",
     "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "/衡阳攻略.md",
@@ -199,8 +201,6 @@
     "2024-10-26.md",
     "/2024-10-25.md",
     "Knowledge  ▏Skill/Server-Sent Events 流式传输.md",
-    "未命名.md",
-    "You Need Thinking.md",
-    "手机端改动！！！！！！.md"
+    "未命名.md"
   ]
 }
