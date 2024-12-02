@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge  ▏ Skill/Fetch 流式传输.md",
+                "file": "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fetch 流式传输"
+              "title": "Axios 封装（重复请求最优解）"
             }
           }
         ]
@@ -157,8 +157,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87de91121eef7b20",
+  "active": "3db717086490bcc9",
   "lastOpenFiles": [
+    "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
     "/Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
     "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
@@ -180,7 +181,6 @@
     "Knowledge  ▏ Skill/image/6c332c271da06d9dce9d324d46fe08b1.png",
     "Knowledge  ▏ Skill/image/49f41ee64911c45b83baf0dd1ef79ff 1.png",
     "Knowledge  ▏ Skill/Gitlab CI CD.md",
-    "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "/衡阳攻略.md",
     "/海麦自研系统亮点.md",
     "/Today mission.md",
