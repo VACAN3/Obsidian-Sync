@@ -16,7 +16,7 @@
 | 缓存策略 | 利用HTTP缓存策略                   | 需要开发者自行实现缓存策略                     |
 
 
-5. 针对 SEE 的缺点，微软开发的一个专门用于处理 **双向 SSE** 数据流的 npm 库：**fetch-event-source**。目前的 ChatGPT 实现的双向信息流也是基于这个库进行开发的。
+5. 针对 SSE 的缺点，微软开发的一个专门用于处理 **双向 SSE** 数据流的 npm 库：**fetch-event-source**。目前的 ChatGPT 实现的双向信息流也是基于这个库进行开发的。
 	1. 通过 `fetch` API 来处理事件流，而不是 `EventSource`，使得支持自定义请求头、请求方法等。
 	2. `npm install --save @microsoft/fetch-event-source`
 	3. 具体用法
