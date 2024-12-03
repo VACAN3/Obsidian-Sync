@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mission.md",
+                "file": "Knowledge  ▏ Skill/Rspack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission"
+              "title": "Rspack"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axios 请求拦截和中断请求.md",
+                "file": "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axios 请求拦截和中断请求"
+              "title": "Server-Sent Events 流式传输"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 319.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -206,20 +207,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66a3a02bb3ebd97",
+  "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
+    "Knowledge  ▏ Skill/Fetch 流式传输.md",
+    "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
+    "Axios 请求拦截和中断请求.md",
+    "Knowledge  ▏ Skill/Rspack.md",
+    "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
+    "Mission.md",
     "第一次见面.md",
     "衡阳攻略.md",
     "海麦自研系统亮点.md",
     "You Need Thinking.md",
-    "Mission.md",
-    "Axios 请求拦截和中断请求.md",
-    "Knowledge  ▏ Skill/Axios 封装（重复请求最优解）.md",
     "Knowledge  ▏ Skill/Gitlab CI CD.md",
-    "Knowledge  ▏ Skill/Fetch 流式传输.md",
-    "Knowledge  ▏ Skill/Server-Sent Events 流式传输.md",
     "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
-    "Knowledge  ▏ Skill/Rspack.md",
     "Knowledge  ▏ Skill/image/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
     "Knowledge  ▏ Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
     "Knowledge  ▏ Skill/image/49f41ee64911c45b83baf0dd1ef79ff 1.png",
