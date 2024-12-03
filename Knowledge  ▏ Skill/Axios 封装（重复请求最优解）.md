@@ -87,16 +87,11 @@ service.interceptors.request.use(
 				// 这里需注意，拿到结果后，无论成功与否，都需要return Promise.reject()来中断这次请求，否则请求会正常发送至服务器
 				let res = null
 
-				const controller = new AbortController();
-				config.signal = controller.signal;
-
 				try {
 					// 接口成功响应
 					res = await new Promise((resolve, reject) => {
 						ev.on(reqKey, resolve, reject)
 					})
-					
-					controller.abort(); // 取消请求
 
 					return Promise.reject({
 						type: 'limiteResSuccess',
@@ -104,8 +99,6 @@ service.interceptors.request.use(
 					})
 				} catch (limitFunErr) {
 					// 接口报错
-					
-					controller.abort();
 
 					return Promise.reject({
 						type: 'limiteResError',

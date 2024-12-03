@@ -6,11 +6,11 @@
 	1. 交互层面：
 		1. 目前方案：滚动动态渲染子表 ✅
 			1. 成果：LCP从平均 9.5s 优化至 3.3s，FCP从平均 2.5s 优化至 0.3s
-
-![](Knowledge%20%20▏%20Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png)![](Knowledge%20%20▏%20Skill/image/6c332c271da06d9dce9d324d46fe08b1.png)
-		3. 备选方案：子表数据大于十条时，底部添加“查看更多”按钮，点击进行弹窗展示
-	1. 代码层面：优化代码细节（v-for....）
-3. 系统页面新建路由时，自动在项目中新建对应的文件目录（需先判断是否已存在）❌伪需求
-4. 用好pinia管理组件状态
-5. nextjs（若依/开源项目）
-6. gitlab cicd pipeline ✅
+			2. ![](Knowledge%20%20▏%20Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png)![](Knowledge%20%20▏%20Skill/image/6c332c271da06d9dce9d324d46fe08b1.png)
+		2. 备选方案：子表数据大于十条时，底部添加“查看更多”按钮，点击进行弹窗展示
+	2. 代码层面：优化代码细节（v-for....）
+2. 列表图片过多的优化：
+	1. 
+3. 用好pinia管理组件状态
+4. nextjs（若依/开源项目）
+5. gitlab cicd pipeline ✅
