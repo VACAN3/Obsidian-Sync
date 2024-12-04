@@ -79,7 +79,7 @@ declare module '@vue/runtime-core' {
 ### 2. 具体实现
 1. npm install @microsoft/fetch-event-source
 2. src\utils\sse.ts
-```
+``` typescript
 /**
  * SSE 工具函数
  * 实现功能：自动重连、超时处理、状态管理集成、错误处理、类型安全
@@ -163,7 +163,7 @@ export async function useSSE<T>(
 ```
 
 3. src\store\modules\sse.ts
-```
+``` typescript
 import { defineStore } from 'pinia';
 
 interface SSEData {
@@ -194,7 +194,7 @@ export const useSSEStore = defineStore('sse', {
 ```
 
 4. src\main.ts
-```
+``` typescript
 import { createApp } from 'vue';
 import App from './App.vue';
 import store from './store';
@@ -209,4 +209,36 @@ app.config.globalProperties.useSSE = useSSE;
 app.mount('#app');
 ```
 
-4. 
+4. 组件内使用
+``` typescript
+import { useSSEStore } from '@/store/modules/sse';
+
+interface MyData {
+  message: string;
+  timestamp: number;
+}
+
+const noticeSSE = () => {
+  // 建立通道并监听 SSE 消息，实例化后返回 关闭通道的函数
+  const closeSSE = proxy?.useSSE<MyData>('http://192.168.10.102:8888/sse/subscribe', handleSSEMessage, {
+    headers: {
+      'Authorization': 'Bearer token'
+    },
+    timeout: 10000,
+    reconnectInterval: 3000
+  });
+};
+
+const sseStore = useSSEStore();
+const filteredSitboxMessages = computed(() => sseStore.filteredMessagesByType('sitbox')); // 筛选并获取响应式 SSE 消息，实时更新状态
+
+const handleSSEMessage = async (event: MessageEvent) => {
+  console.log('接收 message:', event.data);
+  // 同步更新状态/UI
+};
+
+onMounted(() => {
+  noticeSSE();
+})
+```
+
