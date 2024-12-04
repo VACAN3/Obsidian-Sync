@@ -77,4 +77,136 @@ declare module '@vue/runtime-core' {
 
 
 ### 2. 具体实现
-1. 
+1. npm install @microsoft/fetch-event-source
+2. src\utils\sse.ts
+```
+/**
+ * SSE 工具函数
+ * 实现功能：自动重连、超时处理、状态管理集成、错误处理、类型安全
+ */
+
+import { fetchEventSource } from '@microsoft/fetch-event-source';
+import { useSSEStore } from '@/store/modules/sse';
+
+interface SSEOptions {
+	headers?: HeadersInit; // 请求头
+	timeout?: number; // 超时时间
+	reconnectInterval?: number; // 重连间隔时间
+}
+interface SSEEvent<T> extends MessageEvent {
+	data: T;
+}
+export async function useSSE<T>(
+	url: string,
+	onMessage: (event: SSEEvent<T>) => void,
+	options?: SSEOptions // 支持自定义参数配置
+): Promise<() => void> {
+	const { headers, timeout = 0, reconnectInterval = 10000 } = options || {};
+
+	try {
+		// 中断机制
+		const controller = new AbortController();
+
+		const response = await fetchEventSource(url, {
+			signal: controller.signal,
+			headers,
+		});
+
+		// 接收消息
+		response.onmessage = async (event: MessageEvent) => {
+			try {
+				const data = JSON.parse(event.data);
+
+				const sseStore = useSSEStore();
+				sseStore.handleSSEMessage(data);
+
+				onMessage({ ...event, data });
+			} catch (error) {
+				console.error('解析 SSE 数据失败:', error);
+			}
+		};
+
+		// 错误处理
+		response.onerror = (error: ErrorEvent) => {
+			console.error('SSE error:', error);
+			controller.abort();
+			reconnect();
+		};
+
+		// 重连机制
+		let reconnectTimer: NodeJS.Timeout;
+		const reconnect = () => {
+			clearTimeout(reconnectTimer);
+			reconnectTimer = setTimeout(() => {
+				useSSE<T>(url, onMessage, options);
+			}, reconnectInterval);
+		};
+
+		// 超时处理
+		if (timeout > 0) {
+			setTimeout(() => {
+				controller.abort();
+				reconnect();
+			}, timeout);
+		}
+
+		return () => {
+			controller.abort();
+			clearTimeout(reconnectTimer);
+		};
+	} catch (error) {
+		console.error('SSE 连接失败:', error);
+		throw error; // 抛出错误
+	}
+}
+
+```
+
+3. src\store\modules\sse.ts
+```
+import { defineStore } from 'pinia';
+
+interface SSEData {
+    id: number;
+    msgType: string; // 数据类型标识
+    data: any;
+}
+
+/**
+ * 定义 Pinia store
+ * 根据不同的 messageType 获取不同业务类型的消息
+ */
+export const useSSEStore = defineStore('sse', {
+    state: () => ({
+      messages: [] as SSEData[], // 存储接收到的 SSE 消息
+    }),
+    getters: {
+      filteredMessagesByType: (state) => (type: string) => {
+        return state.messages.filter((message) => message.msgType === type);
+      },
+    },
+    actions: {
+      handleSSEMessage(message: SSEData) {
+        this.messages.push(message);
+      },
+    },
+  });
+```
+
+4. src\main.ts
+```
+import { createApp } from 'vue';
+import App from './App.vue';
+import store from './store';
+import { useSSE } from '@/utils/sse'; // SSE
+
+const app = createApp(App);
+// ...忽略其他代码
+
+// 全局方法挂载
+app.config.globalProperties.useSSE = useSSE;
+
+app.mount('#app');
+```
+
+4. 
