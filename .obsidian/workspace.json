@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge  ▏ Skill/Axios 解决重复请求（目前最优解）.md",
+                "file": "SSE 站内信逻辑梳理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axios 解决重复请求（目前最优解）"
+              "title": "SSE 站内信逻辑梳理"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "SSE 站内信逻辑梳理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,17 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42a991b129c7e4e8",
+  "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
     "Knowledge  ▏ Skill/SSE 全局封装.md",
+    "Knowledge  ▏ Skill/Axios 解决重复请求（目前最优解）.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge  ▏ Skill/Axios请求拦截 和 中断请求 的区别.md",
-    "Knowledge  ▏ Skill/Axios 解决重复请求（目前最优解）.md",
+    "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "Knowledge  ▏ Skill/Rspack.md",
     "Knowledge  ▏ Skill/Gitlab CI CD 流水线.md",
     "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
     "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
-    "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "海麦自研系统 亮点🌟.md",
     "Mission.md",
     "You Need Thinking.md",
