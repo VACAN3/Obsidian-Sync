@@ -13,7 +13,7 @@
 ##### 在业务组件中引入和使用
 
 1. **引入 SSE 方法**：
-   在组件中引入 `useSSE` 方法，这个方法已经在全局进行了挂载，可以直接通过 `this` 访问。
+   在组件中引入 `useSSE` 方法，这个方法已经在全局进行了挂载。
 
    ```typescript
    import { defineComponent, onUnmounted } from 'vue';
@@ -25,7 +25,7 @@
          // await updateUI(event.data); // 同步更新状态/UI
        };
 
-       const stopSSE = this.useSSE('https://example.com/sse', handleSSEMessage, {
+       const stopSSE = useSSE('https://example.com/sse', handleSSEMessage, {
          timeout: 5000,
          reconnectInterval: 10000
        });
