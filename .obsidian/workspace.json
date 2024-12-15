@@ -11,15 +11,17 @@
             "id": "4f2f432cf3c074bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SSE 站内信逻辑梳理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "SSE 站内信逻辑梳理"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -193,13 +195,14 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
+    "SSE 站内信逻辑梳理.md",
+    "未命名.canvas",
     "海麦自研系统 亮点🌟.md",
     "Mission.md",
     "You Need Thinking.md",
     "Life Notes/衡阳攻略.md",
     "Life Notes",
     "Life Notes/First Parents Meet.md",
-    "SSE 站内信逻辑梳理.md",
     "Knowledge  ▏ Skill/SSE 全局封装.md",
     "Knowledge  ▏ Skill/Axios请求拦截 和 中断请求 的区别.md",
     "Knowledge  ▏ Skill/Axios 解决重复请求封装（目前最优解）.md",
@@ -232,7 +235,6 @@
     "Obsidian Sync/创建链接.md",
     "Obsidian Sync/欢迎.md",
     "Obsidian Sync",
-    "未命名.canvas",
     "Knowledge/image/Pasted image 20241023143318.png",
     "Chrome Extension Sample/Knowledge Record.md",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
