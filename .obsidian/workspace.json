@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -150,
+                  "y": 27.5,
+                  "zoom": -0.7994557634992957
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "多集群、微服务架构、Docker"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
-    "SSE 站内信逻辑梳理.md",
     "未命名.canvas",
+    "SSE 站内信逻辑梳理.md",
     "海麦自研系统 亮点🌟.md",
     "Mission.md",
     "You Need Thinking.md",
