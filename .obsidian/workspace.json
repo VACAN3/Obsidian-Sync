@@ -11,17 +11,15 @@
             "id": "4f2f432cf3c074bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": -114,
-                  "y": 220,
-                  "zoom": 0
-                }
+                "file": "海麦自研系统 亮点🌟.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "海麦自研系统 亮点🌟"
             }
           }
         ]
@@ -195,23 +193,23 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
-    "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "SSE 站内信逻辑梳理.md",
-    "海麦自研系统 亮点🌟.md",
+    "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
     "Mission.md",
     "You Need Thinking.md",
-    "Life Notes/衡阳攻略.md",
-    "Life Notes",
-    "Life Notes/First Parents Meet.md",
+    "海麦自研系统 亮点🌟.md",
+    "SSE 站内信逻辑梳理.md",
+    "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "生活记录/衡阳攻略.md",
+    "生活记录",
+    "生活记录/First Parents Meet.md",
     "Knowledge  ▏ Skill/SSE 全局封装.md",
     "Knowledge  ▏ Skill/Axios请求拦截 和 中断请求 的区别.md",
     "Knowledge  ▏ Skill/Axios 解决重复请求封装（目前最优解）.md",
     "Knowledge  ▏ Skill/Fetch 流式传输.md",
     "Knowledge  ▏ Skill/Rspack.md",
     "Knowledge  ▏ Skill/Gitlab CI CD 流水线.md",
-    "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
     "Axios 请求拦截或中断.md",
     "Knowledge  ▏ Skill/image/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
     "Knowledge  ▏ Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
