@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "海麦自研系统 亮点🌟.md",
-                "mode": "source",
+                "file": "Knowledge  ▏ Skill/SSE 全局封装.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "海麦自研系统 亮点🌟"
+              "title": "SSE 全局封装"
             }
           }
         ]
@@ -193,12 +193,12 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
-    "Mission.md",
     "You Need Thinking.md",
+    "Mission.md",
     "海麦自研系统 亮点🌟.md",
     "SSE 站内信逻辑梳理.md",
+    "未命名.canvas",
+    "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
     "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
     "未命名 1.canvas",
     "生活记录/衡阳攻略.md",
