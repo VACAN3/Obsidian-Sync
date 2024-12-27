@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "b4966095c7b8119d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge  ▏ Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "merge 撤回：如何在 commit 后 push 前撤回"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 401.5
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -208,11 +222,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa0e8f894700e66",
+  "active": "b4966095c7b8119d",
   "lastOpenFiles": [
+    "未命名.md",
+    "Knowledge  ▏ Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
+    "未命名 1.md",
+    "Knowledge  ▏ Skill/Git 操作记录",
+    "未命名",
     "resource/Pasted image 20241226163846.png",
     "resource/Pasted image 20241226163731.png",
-    "未命名.md",
     "Knowledge  ▏ Skill/Gitlab CI CD 流水线.md",
     "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
     "Knowledge  ▏ Skill/SSE 全局封装.md",
@@ -252,13 +270,10 @@
     "手机端能不能看得到！！！.md",
     "Obsidian Sync/未命名.md",
     "Obsidian Sync/创建链接.md",
-    "Obsidian Sync/欢迎.md",
     "Obsidian Sync",
     "Knowledge/image/Pasted image 20241023143318.png",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
     "Knowledge/image",
-    "Knowledge",
-    "Chrome Extension Sample",
     "未命名 3.canvas",
     "未命名 2.canvas"
   ]
