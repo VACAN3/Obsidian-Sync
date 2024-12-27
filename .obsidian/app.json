@@ -1,8 +1,11 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "resource",
+  "attachmentFolderPath": "/",
   "useMarkdownLinks": true,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "uriCallbacks": true
 }

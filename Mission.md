@@ -6,7 +6,7 @@
 	1. 交互层面：
 		1. 目前方案：滚动动态渲染子表 ✅
 			1. 成果：LCP从平均 9.5s 优化至 3.3s，FCP从平均 2.5s 优化至 0.3s
-			2. ![](Knowledge%20%20▏%20Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png)![](Knowledge%20%20▏%20Skill/image/6c332c271da06d9dce9d324d46fe08b1.png)
+			2. ![](Knowledge_Skill/Images/82dd82aa09fc2dbd1fb3a7f223ed6453.png)![](Knowledge_Skill/Images/6c332c271da06d9dce9d324d46fe08b1.png)
 		2. 备选方案：子表数据大于十条时，底部添加“查看更多”按钮，点击进行弹窗展示
 	2. 代码层面：优化代码细节（v-for....）
 2. 列表图片过多的优化：

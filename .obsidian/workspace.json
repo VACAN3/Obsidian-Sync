@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge  ▏ Skill/Gitlab CI CD 流水线.md",
+                "file": "Knowledge_Skill/Fetch 流式传输.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gitlab CI CD 流水线"
-            }
-          },
-          {
-            "id": "aaa0e8f894700e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Fetch 流式传输"
             }
           },
           {
@@ -43,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge  ▏ Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
+                "file": "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,8 +37,7 @@
               "title": "merge 撤回：如何在 commit 后 push 前撤回"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,58 +206,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4966095c7b8119d",
+  "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
-    "未命名.md",
-    "Knowledge  ▏ Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
-    "未命名 1.md",
-    "Knowledge  ▏ Skill/Git 操作记录",
-    "未命名",
-    "resource/Pasted image 20241226163846.png",
-    "resource/Pasted image 20241226163731.png",
-    "Knowledge  ▏ Skill/Gitlab CI CD 流水线.md",
-    "Knowledge  ▏ Skill/SSE - Server-Sent Events 流式传输.md",
-    "Knowledge  ▏ Skill/SSE 全局封装.md",
     "You Need Thinking.md",
-    "Mission.md",
-    "海麦自研系统 亮点🌟.md",
     "SSE 站内信逻辑梳理.md",
+    "海麦自研系统 亮点🌟.md",
+    "PNPM 转换记录.md",
+    "Knowledge_Skill/Images/Pasted image 20241226163846.png",
+    "images/Pasted image 20241227150729.png",
+    "images",
+    "Knowledge_Skill/Fetch 流式传输.md",
+    "Knowledge  ▏ Skill/Images/Pasted image 20241227150704.png",
+    "Knowledge_Skill/Images/Pasted image 20241023143318.png",
+    "Knowledge  ▏ Skill/Images/Pasted image 20241227150640.png",
+    "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
+    "Pasted image 20241227150447.png",
+    "Knowledge_Skill/Images/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
+    "Knowledge_Skill/Images/6c332c271da06d9dce9d324d46fe08b1.png",
+    "Knowledge_Skill/Images/49f41ee64911c45b83baf0dd1ef79ff 1.png",
+    "Knowledge_Skill/Images/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
+    "attachments",
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
+    "Knowledge_Skill/Images",
+    "Knowledge_Skill/SSE 全局封装.md",
+    "Knowledge_Skill/Axios请求拦截 和 中断请求 的区别.md",
+    "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
+    "Knowledge_Skill/Rspack.md",
+    "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
+    "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
+    "未命名 1.md",
+    "Knowledge_Skill/Git 操作记录",
+    "未命名",
+    "Mission.md",
     "未命名.canvas",
-    "Knowledge  ▏ Skill/多集群、微服务架构、Docker.canvas",
     "未命名 1.canvas",
     "生活记录/衡阳攻略.md",
     "生活记录",
     "生活记录/First Parents Meet.md",
-    "Knowledge  ▏ Skill/Axios请求拦截 和 中断请求 的区别.md",
-    "Knowledge  ▏ Skill/Axios 解决重复请求封装（目前最优解）.md",
-    "Knowledge  ▏ Skill/Fetch 流式传输.md",
-    "Knowledge  ▏ Skill/Rspack.md",
     "Axios 请求拦截或中断.md",
-    "Knowledge  ▏ Skill/image/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
-    "Knowledge  ▏ Skill/image/82dd82aa09fc2dbd1fb3a7f223ed6453.png",
-    "Knowledge  ▏ Skill/image/49f41ee64911c45b83baf0dd1ef79ff 1.png",
-    "Knowledge  ▏ Skill/image/Pasted image 20241023143318.png",
-    "Knowledge  ▏ Skill/image/6c332c271da06d9dce9d324d46fe08b1.png",
     "resource",
-    "resource/49f41ee64911c45b83baf0dd1ef79ff.png",
     "screen 推荐.md",
     "Knowledge/Nest JS/Nest JS.md",
     "Knowledge  ▏ Skill/image",
-    "Knowledge  ▏ Skill",
+    "Knowledge_Skill",
     "202411051713.md",
     "Knowledge/Fetch 流式传输.md",
     "Knowledge/Nest JS",
     "Knowledge/多集群、微服务架构、Docker.canvas",
     "Knowledge/Server-Sent Events 流式传输.md",
-    "新建 文本文档.txt",
     "手机端改动！！！！！！.md",
     "手机端能不能看得到！！！.md",
     "Obsidian Sync/未命名.md",
-    "Obsidian Sync/创建链接.md",
-    "Obsidian Sync",
-    "Knowledge/image/Pasted image 20241023143318.png",
-    "Chrome Extension Sample/Pasted image 20241021183639.png",
-    "Knowledge/image",
     "未命名 3.canvas",
     "未命名 2.canvas"
   ]
