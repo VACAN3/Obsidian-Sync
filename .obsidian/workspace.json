@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge_Skill/Fetch 流式传输.md",
+                "file": "Knowledge_Skill/Vite Upgrade And Optimize.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fetch 流式传输"
+              "title": "Vite Upgrade And Optimize"
             }
           },
           {
@@ -208,14 +208,16 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
+    "PNPM 转换记录.md",
+    "Knowledge_Skill/Vite Upgrade And Optimize.md",
+    "海麦自研系统 亮点🌟.md",
     "You Need Thinking.md",
     "SSE 站内信逻辑梳理.md",
-    "海麦自研系统 亮点🌟.md",
-    "PNPM 转换记录.md",
+    "Mission.md",
+    "Knowledge_Skill/Fetch 流式传输.md",
     "Knowledge_Skill/Images/Pasted image 20241226163846.png",
     "images/Pasted image 20241227150729.png",
     "images",
-    "Knowledge_Skill/Fetch 流式传输.md",
     "Knowledge  ▏ Skill/Images/Pasted image 20241227150704.png",
     "Knowledge_Skill/Images/Pasted image 20241023143318.png",
     "Knowledge  ▏ Skill/Images/Pasted image 20241227150640.png",
@@ -237,7 +239,6 @@
     "未命名 1.md",
     "Knowledge_Skill/Git 操作记录",
     "未命名",
-    "Mission.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "生活记录/衡阳攻略.md",
