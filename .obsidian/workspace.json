@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPM 转换记录.md",
+                "file": "Knowledge_Skill/PNPM 转换记录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,8 +209,9 @@
   },
   "active": "4f2f432cf3c074bd",
   "lastOpenFiles": [
+    "Knowledge_Skill/Images/4382FB4A-C70A-47c1-A6F9-7BF95257DB45.png",
     "Knowledge_Skill/Vite Upgrade And Optimize.md",
-    "PNPM 转换记录.md",
+    "Knowledge_Skill/PNPM 转换记录.md",
     "海麦自研系统 亮点🌟.md",
     "You Need Thinking.md",
     "SSE 站内信逻辑梳理.md",
@@ -258,7 +259,6 @@
     "Knowledge/Server-Sent Events 流式传输.md",
     "手机端改动！！！！！！.md",
     "手机端能不能看得到！！！.md",
-    "Obsidian Sync/未命名.md",
     "未命名 3.canvas",
     "未命名 2.canvas"
   ]
