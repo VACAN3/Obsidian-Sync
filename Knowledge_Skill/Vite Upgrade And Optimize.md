@@ -47,8 +47,9 @@ module.exports = {
   },
 }
 
-// TsxDemo
+// 使用方式
 // 方式一：vue 模板组件
+// TsxDemo.vue
 <script lang="tsx">
 export default defineComponent({
   name: 'TsxDemo', // jsx/tsx
@@ -62,6 +63,6 @@ export default defineComponent({
 </script>
 
 // 方式二：函数式组件
-
-
+// TsxDemo.tsx
+export default (props, ctx) => <div>Hello World from jsx</div>;
 ```
