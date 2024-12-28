@@ -47,5 +47,21 @@ module.exports = {
   },
 }
 
+// TsxDemo
+// 方式一：vue 模板组件
+<script lang="tsx">
+export default defineComponent({
+  name: 'TsxDemo', // jsx/tsx
+  props: {
+    name: type: String,
+  },
+  setup(props, ctx) {
+    return () => <div>Hello World {props.name}</div>;
+  },
+});
+</script>
+
+// 方式二：函数式组件
+
 
 ```
