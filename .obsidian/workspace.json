@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge_Skill/NPM To PNPM 转换记录.md",
+                "file": "Knowledge_Skill/Gitlab CI CD 流水线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM To PNPM 转换记录"
+              "title": "Gitlab CI CD 流水线"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -194,8 +193,8 @@
   },
   "active": "633aa86187be674d",
   "lastOpenFiles": [
-    "Knowledge_Skill/Vite Upgrade And Optimize.md",
     "Knowledge_Skill/NPM To PNPM 转换记录.md",
+    "Knowledge_Skill/Vite Upgrade And Optimize.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
     "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
