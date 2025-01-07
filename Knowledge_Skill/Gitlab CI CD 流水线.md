@@ -34,8 +34,7 @@
 1. 变量
 2. 除了自定义的变量外，Runner 也可以定义它自己的变量。
 3. 例如 `CI_COMMIT_REF_NAME`，它的值表示用于构建项目的分支或tag名称
-	1. 如果流水线是由分支触发的，`CI_COMMIT_REF_NAME` 的值就是分支名（例如 "main"、"develop"）
-	2. 如果流水线是由标签（tag）触发的，`CI_COMMIT_REF_NAME` 的值就是标签名（例如 "v1.0.0"）
+	1. 例如流水线是由分支触发的，即向某个分支推送代码（git push）时，`CI_COMMIT_REF_NAME` 的值就是分支名（例如 "main"、"develop"）
 
 
 
