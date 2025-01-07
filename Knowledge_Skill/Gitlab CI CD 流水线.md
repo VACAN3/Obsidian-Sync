@@ -29,6 +29,10 @@
 1. 缓存，存储和重用文件或目录，减少重复下载和构建的时间
 2. 如果`cache`定义在jobs的作用域之外，那么它就是全局缓存，所有 jobs 都可以使用该缓存
 3. 缓存是在 jobs 之前进行共享的，如果希望不同的 jobs 缓存不同的文件路径，必须设置不同的 **cache:key**，否则缓存内容将被重写
+4. **配置示例**
+	1. 缓存每个 job：`cache: key: "$CI_JOB_NAME"`
+	2. 缓存每个分支：`cache: key: "$CI_COMMIT_REF_NAME"`
+	3. 
 #### artifacts
 1. 制品，保存构建后生成的文件或目录，可在不同作业 job 中共享使用，生成的 artifacts 可以通过 Gitlab 界面下载查看方便调试。通过使用 artifacts，您可以确保在 CI/CD 流程中重要的输出不会丢失，并且可以在后续的作业中轻松访问这些输出
 
@@ -38,7 +42,7 @@
 3. 例如 
 	1. `CI_COMMIT_REF_NAME`，它的值表示用于构建项目的分支或tag名称。例如流水线是由分支触发的，即向某个分支推送代码（git push）时，`CI_COMMIT_REF_NAME` 的值就是分支名（例如 "main"、"develop"）
 	2. `CI_JOB_NAME` 当前 job 名称
-	3. 
+	3. `CI_JOB_ID` 当前 job ID
 
 
 
