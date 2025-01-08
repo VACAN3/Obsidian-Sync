@@ -30,10 +30,14 @@
 2. 如果`cache`定义在jobs的作用域之外，那么它就是全局缓存，所有 jobs 都可以使用该缓存
 3. 缓存是在 jobs 之前进行共享的，如果希望不同的 jobs 缓存不同的文件路径，必须设置不同的 `cache:key`，否则缓存内容将被重写
 4. **为不同 job 定义了不同的 `cache:key` 时， 会为每个 job 分配一个独立的 cache**
-5. **配置示例**
+5. **示例**
 	1. 缓存每个 job：`cache: key: "$CI_JOB_NAME"`
 	2. 缓存每个分支：`cache: key: "$CI_COMMIT_REF_NAME"`
-	3. 
+	3. 指定文件发生变化自动重新生成缓存：`cache: key: files:  - package.json`
+	4. cache:policy 策略：
+		1. 默认：在执行开始时下载缓存文件，并在结束时重新上传缓存文件，即`pull-push`缓存策略
+		2. 跳过下载步骤：`policy: pull`
+		3. 跳过上传步骤：`policy: push`
 #### artifacts
 1. 制品，保存构建后生成的文件或目录，可在不同作业 job 中共享使用，生成的 artifacts 可以通过 Gitlab 界面下载查看方便调试。通过使用 artifacts，您可以确保在 CI/CD 流程中重要的输出不会丢失，并且可以在后续的作业中轻松访问这些输出
 
