@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Gitlab CI CD 流水线"
             }
+          },
+          {
+            "id": "c3b0eecd27b422a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "633aa86187be674d",
+  "active": "c3b0eecd27b422a4",
   "lastOpenFiles": [
     "Knowledge_Skill/NPM To PNPM 转换记录.md",
     "Knowledge_Skill/Vite Upgrade And Optimize.md",
