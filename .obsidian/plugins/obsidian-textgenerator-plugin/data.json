@@ -4,7 +4,7 @@
   "models": [],
   "api_key": "",
   "encrypt_keys": false,
-  "selectedProvider": "OpenAI Chat (Langchain)",
+  "selectedProvider": "Chat Anthropic (Langchain)",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
@@ -99,6 +99,23 @@
       "basePath": "https://api.openai.com/v1",
       "api_key": "",
       "model": "gpt-3.5-turbo"
+    },
+    "Google GenerativeAI (Langchain)": {
+      "model": "gemini-1.5-pro"
+    },
+    "OpenAI Agent (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "model": "o1-mini"
+    },
+    "OpenAI Instruct (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "model": "gpt-3.5-turbo-instruct"
+    },
+    "Google Palm (Langchain)": {},
+    "Ollama (Langchain)": {},
+    "Huggingface (Langchain)": {},
+    "MistralAI Chat (Langchain)": {
+      "basePath": "https://api.mistral.ai/v1"
     }
   },
   "LLMProviderOptionsKeysHashed": {

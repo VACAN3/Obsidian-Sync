@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-10.md",
+                "file": "Knowledge_Skill/Gitlab CI CD 流水线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "Gitlab CI CD 流水线"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -195,8 +196,8 @@
   },
   "active": "633aa86187be674d",
   "lastOpenFiles": [
-    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "2025-01-10.md",
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "未命名.canvas",
     "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
     "You Need Thinking.md",

@@ -7,5 +7,6 @@
   "readableLineLength": false,
   "newFileLocation": "root",
   "newFileFolderPath": "",
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "promptDelete": false
 }
