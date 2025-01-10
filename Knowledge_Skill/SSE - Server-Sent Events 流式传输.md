@@ -1,3 +1,5 @@
+## 概念
+
 1. 基于 **HTTP协议** 的由==服务端向客户端==单向数据 **流式传输** 的通信技术
 2. **SSE** 本质就是个 http 请求，加上了 `text-stream` 的 `contentType` 响应头
 3. 限制：无法设置自定义请求头、只能处理文本数据、只支持 `GET` 请求
@@ -25,3 +27,8 @@
 	3. 具体用法
 		1. https://github.com/Azure/fetch-event-source
 		2. https://juejin.cn/post/7345379767787749395
+
+
+
+## [SSE 全局封装](SSE%20全局封装.md)
+
