@@ -2,7 +2,10 @@
 
 ## 基本概念
 ### Runner
-流水线的工作执行者，负责按照 `.gitlab-ci.yml` 文件中的配置，运行相应的构建、测试或部署脚本。当流水线触发时，GitLab 会将符合 Runner **tag** 的任务分配给匹配的 Runner。（Runner 可以带有标签，用来标识它的能力或环境）
+执行器，也就是执行 job 的机器，负责按照 `.gitlab-ci.yml` 文件中的配置，运行相应的构建、测试或部署脚本。当流水线触发时，GitLab 会将符合 Runner **tag** 的任务分配给匹配的 Runner。（Runner 可以带有标签，用来标识它的能力或环境）。
+
+Runner 跟 GitLab 是分离的，Runner 需要我们自己去安装，然后注册到 GitLab 上（不需要跟 gitlab 在同一个服务器上，这样有个好处就是可以很方便实现多个机器来同时处理 GitLab 的 CI、CD 的任务）。
+
 
 ### PipeLine 流水线
 1. 表示一次完成的 CI/CD 流程。
