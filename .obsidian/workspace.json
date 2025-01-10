@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +187,10 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9506f5cd760d9661",
+  "active": "db3df28268ccbe67",
   "lastOpenFiles": [
     "SSE 站内信逻辑梳理.md",
     "海麦自研系统 亮点🌟.md",
