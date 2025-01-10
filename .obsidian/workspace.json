@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge_Skill/Gitlab CI CD 流水线.md",
+                "file": "2025-01-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gitlab CI CD 流水线"
-            }
-          },
-          {
-            "id": "c3b0eecd27b422a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2025-01-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -202,24 +188,28 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c3b0eecd27b422a4",
+  "active": "633aa86187be674d",
   "lastOpenFiles": [
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
+    "2025-01-10.md",
+    "未命名.canvas",
+    "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
+    "You Need Thinking.md",
     "Knowledge_Skill/NPM To PNPM 转换记录.md",
     "Knowledge_Skill/Vite Upgrade And Optimize.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
     "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
-    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "Knowledge_Skill/Rspack.md",
-    "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
     "Knowledge_Skill/Axios请求拦截 和 中断请求 的区别.md",
     "Knowledge_Skill/SSE 全局封装.md",
     "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
     "Knowledge_Skill/Fetch 流式传输.md",
-    "You Need Thinking.md",
     "Mission.md",
     "海麦自研系统 亮点🌟.md",
     "Knowledge_Skill/Images/4382FB4A-C70A-47c1-A6F9-7BF95257DB45.png",
@@ -238,7 +228,6 @@
     "未命名 1.md",
     "Knowledge_Skill/Git 操作记录",
     "未命名",
-    "未命名.canvas",
     "未命名 1.canvas",
     "生活记录/衡阳攻略.md",
     "生活记录",
