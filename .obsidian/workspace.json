@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d35f6dc4dab8c37d",
+        "id": "682df3e05ff5404b",
         "type": "tabs",
         "children": [
           {
-            "id": "633aa86187be674d",
+            "id": "9506f5cd760d9661",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "633aa86187be674d",
+  "active": "9506f5cd760d9661",
   "lastOpenFiles": [
-    "2025-01-10.md",
+    "Knowledge_Skill/Images/Pasted image 20250110120335.png",
     "Knowledge_Skill/Gitlab CI CD 流水线.md",
+    "2025-01-10.md",
     "未命名.canvas",
     "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
     "You Need Thinking.md",
@@ -223,7 +224,6 @@
     "Pasted image 20241227150447.png",
     "Knowledge_Skill/Images/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
     "Knowledge_Skill/Images/6c332c271da06d9dce9d324d46fe08b1.png",
-    "Knowledge_Skill/Images/49f41ee64911c45b83baf0dd1ef79ff 1.png",
     "attachments",
     "Knowledge_Skill/Images",
     "未命名 1.md",
@@ -245,7 +245,6 @@
     "Knowledge/多集群、微服务架构、Docker.canvas",
     "Knowledge/Server-Sent Events 流式传输.md",
     "手机端改动！！！！！！.md",
-    "手机端能不能看得到！！！.md",
     "未命名 3.canvas",
     "未命名 2.canvas"
   ]
