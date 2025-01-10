@@ -47,7 +47,7 @@ Runner 跟 GitLab 是分离的，Runner 需要我们自己去安装，然后注�
 		2. 跳过下载步骤：`policy: pull`
 		3. 跳过上传步骤：`policy: push`
 #### artifacts
-1. 过程制品
+1. 过程制品 / 过程产物
 2. 这代表这构建过程中所产生的一些文件，比如打包好的文件，这些文件可以在下一个 `stage` 中使用，也可以在 `pipeline` 执行结束之后下载下来
 3. 保存构建后生成的文件或目录，可在不同作业 job 中共享使用，生成的 artifacts 可以通过 Gitlab 界面下载查看方便调试。通过使用 artifacts，您可以确保在 CI/CD 流程中重要的输出不会丢失，并且可以在后续的作业中轻松访问这些输出
 4. `artifacts` 会在当前 `pipeline` 中生效和使用，但不会在下一次 `pipeline` 中共享使用，区别于`cache` 
