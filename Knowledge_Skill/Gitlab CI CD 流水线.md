@@ -65,83 +65,127 @@ Runner 跟 GitLab 是分离的，Runner 需要我们自己去安装，然后注�
 
 ```
 stages:
-  - build
-  - package
-  - deploy
+  - build
+  - package
+  - deploy
 
+# 全局自定义变量
+variables:
+  PNPM_VERSION: '9.15.1'
+  NPM_REGISTRY: 'https://registry.npmmirror.com'
+  PNPM_STORE_DIR: ${CI_PROJECT_DIR}/.pnpm-store
+
+# 全局缓存策略
 cache:
-  paths:
-    - node_modules/
+  key:
+    files:
+      - pnpm-lock.yaml
+  # prefix:  ${CI_COMMIT_REF_SLUG}
+  paths:
+    - ${PNPM_STORE_DIR}
+    - .pnpm-store
+    - node_modules/
+    # - node_modules/.cache
+  policy: pull-push
 
+# 通用脚本
+.pnpm-setup:
+  before_script:
+    - echo "Setting up pnpm environment..."
+    - npm install -g pnpm@$PNPM_VERSION --registry=$NPM_REGISTRY --force
+    - pnpm config set store-dir $PNPM_STORE_DIR
+    - pnpm config set registry $NPM_REGISTRY
+
+
+# 1. 构建
 build-job-test:
-  stage: build
-  script:
-    - npm install --registry=https://registry.npmmirror.com
-  only:
-    - test
-  tags:
-    - test
+  stage: build
+  extends: .pnpm-setup
+  script:
+    - echo "Installing dependencies..."
+    # - pnpm install --offline || pnpm install
+    - pnpm install --prefer-offline --frozen-lockfile
+  only:
+    - test
+  tags:
+    - test
 
 build-job-prod:
-  stage: build
-  script:
-    - npm install --registry=https://registry.npmmirror.com
-  only:
-    - main
-  tags:
-    - test
+  stage: build
+  extends: .pnpm-setup
+  script:
+    - echo "Installing dependencies..."
+    # - pnpm install --offline || pnpm install
+    - pnpm install --prefer-offline --frozen-lockfile
+  only:
+    - main
+  tags:
+    - test
 
+# 2. 打包
 package-job-test:
-  stage: package
-  needs:
-    [build-job-test]
-  script:
-    - npm run build:test
-  artifacts:
-    paths:
-      - dist/*
-  only:
-    - test
-  tags:
-    - test
+  stage: package
+  needs: [build-job-test]
+  script:
+    # - pnpm install --prefer-offline --frozen-lockfile
+    - echo "Running build..."
+    - pnpm build:test
+  # cache:
+  #   policy: pull
+  artifacts:
+    paths:
+      - dist/*
+  only:
+    - test
+  tags:
+    - test
 
 package-job-prod:
-  stage: package
-  needs:
-    [build-job-prod]
-  script:
-    - npm run build:prod
-  artifacts:
-    paths:
-      - dist/*
-  only:
-    - main
-  tags:
-    - test
+  stage: package
+  needs: [build-job-prod]
+  before_script:
+    - export PATH=$(pwd)/node_modules/.bin:$PATH
+  script:
+    # - pnpm install --prefer-offline --frozen-lockfile
+    - echo "Running build..."
+    - pnpm build:prod
+  # cache:
+  #   policy: pull
+  artifacts:
+    paths:
+      - dist/*
+  only:
+    - main
+  tags:
+    - test
 
+3. 部署
 deploy-job-test:
-  stage: deploy
-  needs:
-    [package-job-test]
-  script:
-    - rm -r /usr/local/nginx/html/hmdp/*
-    - cp -r dist/* /usr/local/nginx/html/hmdp
-  only:
-    - test
-  tags:
-    - test
+  stage: deploy
+  needs: [package-job-test]
+  script:
+    - rm -r /usr/local/nginx/html/hmdp/*
+    - cp -r dist/* /usr/local/nginx/html/hmdp
+  cache:
+    policy: pull
+  only:
+    - test
+  tags:
+    - test
 
 deploy-job-prod:
-  stage: deploy
-  needs:
-    [package-job-prod]
-  script:
-    - rm -r /usr/local/nginx/html/hmdp/*
-    - cp -r dist/* /usr/local/nginx/html/hmdp
-  only:
-    - main
-  tags:
-    - prd
+  stage: deploy
+  needs: [package-job-prod]
+  script:
+    - rm -r /usr/local/nginx/html/hmdp/*
+    - cp -r dist/* /usr/local/nginx/html/hmdp
+  cache:
+    policy: pull
+  only:
+    - main
+  tags:
+    - prd
+
 ```
 
 ![](Images/Pasted%20image%2020250110120335.png)
