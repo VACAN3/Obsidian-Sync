@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge_Skill/Gitlab CI CD 流水线.md",
+                "file": "2025-01-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gitlab CI CD 流水线"
+              "title": "2025-01-10"
             }
           }
         ]
@@ -188,19 +188,17 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9506f5cd760d9661",
   "lastOpenFiles": [
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "Knowledge_Skill/NPM 转 PNPM 记录.md",
     "海麦自研系统 亮点🌟.md",
     "2025-01-10.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Vite 升级 优化.md",
-    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "Knowledge_Skill/Fetch 流式传输.md",
     "Knowledge_Skill/SSE 全局封装.md",
     "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
