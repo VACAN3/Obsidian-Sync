@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "海麦自研系统 亮点🌟.md",
+                "file": "Knowledge_Skill/NPM 转 PNPM 记录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "海麦自研系统 亮点🌟"
+              "title": "NPM 转 PNPM 记录"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "9506f5cd760d9661",
   "lastOpenFiles": [
+    "海麦自研系统 亮点🌟.md",
+    "未命名.canvas",
     "Knowledge_Skill/Vite 升级 优化.md",
     "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
     "Knowledge_Skill/Gitlab CI CD 流水线.md",
@@ -203,11 +205,9 @@
     "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
     "You Need Thinking.md",
     "2025-01-10.md",
-    "海麦自研系统 亮点🌟.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Rspack.md",
     "Knowledge_Skill/Images/Pasted image 20250110120335.png",
-    "未命名.canvas",
     "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
     "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
     "Knowledge_Skill/Axios请求拦截 和 中断请求 的区别.md",
