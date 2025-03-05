@@ -8,112 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9506f5cd760d9661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge_Skill/Uniapp Record.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uniapp Record"
-            }
-          },
-          {
             "id": "ada16ffd6e50d277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini.md",
+                "file": "Mini Record/login page 必要性分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mini"
-            }
-          },
-          {
-            "id": "b052e5068fb40e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "a3cdca7f0f95d2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "938d9265157c8be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "5f91a982458604ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 3"
-            }
-          },
-          {
-            "id": "f297568aba743b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "login page 必要性分析"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,15 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f297568aba743b7c",
+  "active": "ada16ffd6e50d277",
   "lastOpenFiles": [
-    "未命名 4.md",
+    "Mini Record/功能规划.md",
+    "Mini Record/login page 必要性分析.md",
     "未命名 3.md",
+    "未命名 4.md",
     "未命名 2.md",
     "未命名 1.md",
     "未命名.md",
-    "mini.md",
     "Knowledge_Skill/Uniapp Record.md",
+    "Mini Record",
     "未命名.canvas",
     "Heart-Mate小程序.xmind",
     "Knowledge_Skill/NPM 转 PNPM 记录.md",
@@ -322,14 +233,12 @@
     "attachments",
     "Knowledge_Skill/Images",
     "Knowledge_Skill/Git 操作记录",
-    "未命名",
     "未命名 1.canvas",
     "生活记录/衡阳攻略.md",
     "生活记录",
     "生活记录/First Parents Meet.md",
     "Axios 请求拦截或中断.md",
     "resource",
-    "screen 推荐.md",
     "Knowledge  ▏ Skill/image",
     "Knowledge_Skill",
     "Knowledge/多集群、微服务架构、Docker.canvas",
