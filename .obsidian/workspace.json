@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mini Record/login page 必要性分析.md",
+                "file": "Mini Record/功能规划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "login page 必要性分析"
+              "title": "功能规划"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "ada16ffd6e50d277",
   "lastOpenFiles": [
-    "Mini Record/功能规划.md",
     "Mini Record/login page 必要性分析.md",
+    "Mini Record/功能规划.md",
     "未命名 3.md",
     "未命名 4.md",
     "未命名 2.md",
