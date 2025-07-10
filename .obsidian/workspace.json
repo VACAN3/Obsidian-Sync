@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "重要记录/公司代办记录.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#挂靠：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5878ba775f4650fb",
+  "active": "ada16ffd6e50d277",
   "lastOpenFiles": [
     "Mission.md",
     "重要记录/公司代办记录.md",
