@@ -11,10 +11,15 @@
             "id": "6586077256926a8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge_Skill/MCP 配置例子.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "MCP 配置例子"
             }
           }
         ]
@@ -186,49 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "315e5e8e098509db",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2677f430d0971beb",
-        "type": "window",
-        "children": [
-          {
-            "id": "d2ade842bf0d6331",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "39877de4b6891f50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Knowledge_Skill/一文读懂MCP.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "一文读懂MCP"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 775,
-        "y": 0,
-        "width": 1145,
-        "height": 1032,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "39877de4b6891f50",
+  "active": "6586077256926a8b",
   "lastOpenFiles": [
-    "Knowledge_Skill/一文读懂MCP.md",
+    "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器.md",
+    "Knowledge_Skill/MCP 配置例子.md",
     "重要记录/公司代办记录.md",
     "Mission.md",
     "重要记录",
@@ -261,7 +227,6 @@
     "Knowledge_Skill/Rspack.md",
     "Knowledge_Skill/Images/Pasted image 20250110120335.png",
     "Knowledge_Skill/Axios 解决重复请求封装（目前最优解）.md",
-    "Knowledge_Skill/Git 操作记录/merge 撤回：如何在 commit 后 push 前撤回.md",
     "Knowledge_Skill/Images/4382FB4A-C70A-47c1-A6F9-7BF95257DB45.png",
     "images/Pasted image 20241227150729.png",
     "images",
