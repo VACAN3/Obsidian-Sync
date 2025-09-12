@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a4689e0e72ca2a73",
+        "id": "5d32ce1187cfe894",
         "type": "tabs",
         "children": [
           {
-            "id": "6586077256926a8b",
+            "id": "6915bd1121150e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
+                "file": "insummerwefly.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家"
+              "title": "insummerwefly"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5110321044922
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -193,39 +194,40 @@
       "translate:Open translation view": false
     }
   },
-  "active": "6586077256926a8b",
+  "active": "6915bd1121150e65",
   "lastOpenFiles": [
-    "Pasted image 20250710165639.png",
-    "Knowledge_Skill/MCP 配置举例.md",
-    "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
+    "insummerwefly.md",
+    "生活记录/衡阳攻略.md",
+    "生活记录/First Parents Meet.md",
     "重要记录/公司代办记录.md",
+    "Chrome Extension Sample/Pasted image 20241021183639.png",
+    "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
+    "Knowledge_Skill/Images/Pasted image 20250710165639.png",
+    "海麦自研系统 亮点🌟.md",
+    "You Need Thinking.md",
+    "Mini Record/功能规划.md",
+    "Mini Record/login page 必要性分析.md",
+    "Knowledge_Skill/NPM 转 PNPM 记录.md",
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
+    "Knowledge_Skill/MCP 配置举例.md",
     "Mission.md",
     "重要记录",
     "生活记录/未命名",
-    "海麦自研系统 亮点🌟.md",
-    "生活记录/衡阳攻略.md",
     "2025-01-10.md",
-    "生活记录/First Parents Meet.md",
-    "Mini Record/功能规划.md",
-    "Mini Record/login page 必要性分析.md",
     "未命名 3.md",
     "未命名 4.md",
     "未命名 2.md",
     "未命名 1.md",
-    "未命名.md",
     "Knowledge_Skill/Uniapp Record.md",
     "Mini Record",
     "未命名.canvas",
     "Heart-Mate小程序.xmind",
-    "Knowledge_Skill/NPM 转 PNPM 记录.md",
     "Knowledge_Skill/Vite 升级 优化.md",
     "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
-    "Knowledge_Skill/Gitlab CI CD 流水线.md",
     "Knowledge_Skill/Images/Pasted image 20241226163846.png",
     "Knowledge_Skill/Fetch 流式传输.md",
     "Knowledge_Skill/SSE 全局封装.md",
     "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
-    "You Need Thinking.md",
     "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Rspack.md",
     "Knowledge_Skill/Images/Pasted image 20250110120335.png",
@@ -236,8 +238,6 @@
     "Knowledge_Skill/Images/Pasted image 20241023143318.png",
     "Knowledge  ▏ Skill/Images/Pasted image 20241227150640.png",
     "Pasted image 20241227150447.png",
-    "Knowledge_Skill/Images/F9F9D679-7AA4-4fcf-B364-FA19AA7F1A14.png",
-    "Knowledge_Skill/Images/6c332c271da06d9dce9d324d46fe08b1.png",
     "attachments",
     "Knowledge_Skill/Images",
     "Knowledge_Skill/Git 操作记录",

@@ -230,4 +230,4 @@ MCP的故事才刚刚开始，而你，已经站在了这个智能化浪潮的�
 _想要了解更多MCP的技术细节和最新动态，可以关注Anthropic的[官方文档](https://www.anthropic.com/news/model-context-protocol)和GitHub仓库。技术的魅力在于实践，赶紧动手试试吧！_
 
 
-![](../Pasted%20image%2020250710165639.png)
+![](Images/Pasted%20image%2020250710165639.png)
