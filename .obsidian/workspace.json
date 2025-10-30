@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insummerwefly.md",
+                "file": "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "insummerwefly"
+              "title": "一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5110321044922
   },
   "right": {
     "id": "2ca7ac3b409b6660",
@@ -195,21 +195,25 @@
   },
   "active": "6915bd1121150e65",
   "lastOpenFiles": [
+    "Knowledge_Skill/MCP 配置举例.md",
+    "Knowledge_Skill/Uniapp Record.md",
+    "Knowledge_Skill/NPM 转 PNPM 记录.md",
+    "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
+    "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
+    "Knowledge_Skill/Gitlab CI CD 流水线.md",
+    "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
+    "You Need Thinking.md",
+    "SSE 站内信逻辑梳理.md",
+    "Mission.md",
+    "海麦自研系统 亮点🌟.md",
     "insummerwefly.md",
     "生活记录/衡阳攻略.md",
     "生活记录/First Parents Meet.md",
     "重要记录/公司代办记录.md",
     "Chrome Extension Sample/Pasted image 20241021183639.png",
-    "Knowledge_Skill/一文读懂MCP：让AI助手变身超级工具人的秘密武器, 让 AI 从“嘴炮王”变成“实干家.md",
     "Knowledge_Skill/Images/Pasted image 20250710165639.png",
-    "海麦自研系统 亮点🌟.md",
-    "You Need Thinking.md",
     "Mini Record/功能规划.md",
     "Mini Record/login page 必要性分析.md",
-    "Knowledge_Skill/NPM 转 PNPM 记录.md",
-    "Knowledge_Skill/Gitlab CI CD 流水线.md",
-    "Knowledge_Skill/MCP 配置举例.md",
-    "Mission.md",
     "重要记录",
     "生活记录/未命名",
     "2025-01-10.md",
@@ -217,17 +221,13 @@
     "未命名 4.md",
     "未命名 2.md",
     "未命名 1.md",
-    "Knowledge_Skill/Uniapp Record.md",
     "Mini Record",
     "未命名.canvas",
     "Heart-Mate小程序.xmind",
     "Knowledge_Skill/Vite 升级 优化.md",
-    "Knowledge_Skill/SSE - Server-Sent Events 流式传输.md",
     "Knowledge_Skill/Images/Pasted image 20241226163846.png",
     "Knowledge_Skill/Fetch 流式传输.md",
     "Knowledge_Skill/SSE 全局封装.md",
-    "Knowledge_Skill/多集群、微服务架构、Docker.canvas",
-    "SSE 站内信逻辑梳理.md",
     "Knowledge_Skill/Rspack.md",
     "Knowledge_Skill/Images/Pasted image 20250110120335.png",
     "Knowledge_Skill/Images/4382FB4A-C70A-47c1-A6F9-7BF95257DB45.png",
